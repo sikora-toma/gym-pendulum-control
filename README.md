@@ -5,7 +5,7 @@ Implemented algorithms:
 - PID control ([notebook](/pendulum_control.ipynb))
 - LQG (TODO)
 - MPC (TODO)
-- RL (TODO)
+- RL ([notebook](/pendulum_control_RL_PPO.ipynb))
 
 ## Resources
 - OpenAi pendulum gym: [link](https://github.com/openai/gym/blob/master/gym/envs/classic_control/pendulum.py)
